@@ -1,4 +1,5 @@
-[
+{
+ "stamps":      [
   {
     "itemId": "v1|234538549768|0",
     "sellerItemRevision": "8",
@@ -31917,5 +31918,6 @@
       }
     ],
     "listingMarketplaceId": "EBAY_US"
-  }
-]
+    }
+  ]
+}
